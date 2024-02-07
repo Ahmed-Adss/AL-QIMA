@@ -1,0 +1,36 @@
+{
+  "commentTranslate.targetLanguage": "ar",
+  "commentTranslate.hover.enabled": true,
+  "spellright.language": [
+    "ar",
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "json"
+  ],
+  "cSpell.words": [
+    "Abdelfattah",
+    "contactus",
+    "Formik",
+    "reduxjs",
+    "Yasser"
+  ],
+  "liveServer.settings.port": 5501,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "hide-files.files": [],
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#8a008f",
+    "statusBar.debuggingBackground": "#8a008f",
+    "statusBar.debuggingForeground": "#ffffff"
+  }
+}
